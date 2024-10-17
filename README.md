@@ -70,4 +70,14 @@ The dataset is stored as a CSV file (online_retail.csv), and it's ideal for expl
 ![image](https://github.com/user-attachments/assets/9574159b-91ab-4979-9223-1df0777c8f07)
 ![image](https://github.com/user-attachments/assets/112108dc-006f-44dd-99d3-c5b9877e404d)
 
+## Setup and Installation
 
+### Prerequisites
+Ensure you have the following installed:
+- **Python 3.x**
+- **pip** (Python package installer)
+
+### Clone the Repository
+```bash
+git clone https://github.com/Nishanth654/online-retail-analysis.git
+cd online-retail-analysis
